@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Neopets - Vehicular Manslaughter
+// @name         Neopets - Battledome But With A Cool Sports Car
 // @description  Puts your Battledome pet in a car (the Usuki Dream Car to be exact, whether you have that item equipped or not). Purely cosmetic, but it's really funny to see your pet ram an opponent with a vehicle. Edit carColor to change the car's color. May not look good with short pets, e.g. Jubjubs.
 // @version      1.0
 // @author       prettypinkpansy
