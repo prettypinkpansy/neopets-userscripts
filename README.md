@@ -1,10 +1,10 @@
-Hi! I'm Red (prettypinkpansy) and these are my Neopets userscripts. Currently there is just the one: Vehicular Manslaughter.
+Hi! I'm Red (prettypinkpansy) and these are my Neopets userscripts. Currently there is just the one: Battledome But With A Cool Sports Car.
 
-# Vehicular Manslaughter
+# Battledome But With A Cool Sports Car
 
 <img src="https://i.imgur.com/ixwk9c5.gif">
 
-<a href="https://github.com/prettypinkpansy/neopets-userscripts/raw/refs/heads/main/Neopets%20-%20Vehicular%20Manslaughter.user.js">Download</a>
+<a href="https://github.com/prettypinkpansy/neopets-userscripts/raw/refs/heads/main/Neopets%20-%20Battledome%20But%20With%20A%20Cool%20Sports%20Car.user.js">Download</a>
 
 You will need a browser addon such as <a href="https://www.tampermonkey.net/">Tampermonkey</a> to install this.
 
