@@ -18,6 +18,22 @@ You can **change the color of the car to match your pet** by changing the indica
 
 Some shorter Battledome pets, e.g. babies or Jubjubs, may have trouble reaching the controls. Some extremely large pets (e.g. Mutant Chomby) may bulge out of the car itself. Sorry about that. I don't think there's a way to detect species/color and adjust the height manually. Maybe in a future version I'll try to fix this by adding a height toggle you can adjust.
 
+# John Legend Fights Your Battles
+
+<img src="https://i.imgur.com/eaG4hLM.gif">
+
+<a href="https://github.com/prettypinkpansy/neopets-userscripts/blob/main/Neopets%20-%20John%20Legend%20Fights%20Your%20Battles.user.js">Download</a>
+
+Where's that man been? What's he doing for Neopets? Finally answer that question and have John Legend do your fights so your Battledome pet doesn't have to. (Warning: John Legend's stats are the same as your Battledome pet and damage done to John Legend will still be done to your Battledome pet. Taking Battledome damage was not in John Legend's contract.)
+
+Removes your Battledome sprite and replaces it with John Legend.
+
+Again, this is **purely cosmetic**. You still have to like, pick your battledome weapons and do your fights as usual, sadly.
+
+Does not replace your pet's top left portrait or username - I tried, but I think it doesn't let me because those elements load in later, and I'm not smart enough to accommodate that. Maybe I'll update this in the future if someone tells me how, ha ha.
+
+**NERD STUFF:** You can edit the script as indicated (it's easy!) to put your own image and position it properly, if you want to have Miku do your battles or whatever.
+
 # Lore Accurate Maraquan Battledome
 
 <img src="https://i.imgur.com/JrndplW.gif">
@@ -28,18 +44,16 @@ Do you have a Maraquan pet? Tired of seeing them float in midair? Put that thing
 
 This is basically the same as Battledome But With A Cool Sports Car, just using different images. It should work for pretty much any pet unless it's comically huge.
 
-# John Legend Fights Your Battles
+**NERD STUFF:** If there's a different item you want to encase your pet (e.g. lava lamp, Baby In A Pumpkin) you can go on Dress to Impress, dress up your pet, use Inspect Element to get the images that go below and above your pet, and replace the URLs.
 
-<img src="https://i.imgur.com/eaG4hLM.gif">
+# Replace The Gross Volunteering Image
 
-<a href="https://github.com/prettypinkpansy/neopets-userscripts/blob/main/Neopets%20-%20John%20Legend%20Fights%20Your%20Battles.user.js">Download</a>
+<img src="https://i.imgur.com/LcgBSYS.png">
 
-Where's that man been? What's he doing for Neopets? Finally answer that question and have John Legend do your fights so your Battledome pet doesn't have to.
+<a href="https://github.com/prettypinkpansy/neopets-userscripts/raw/refs/heads/main/Neopets%20-%20Replace%20The%20Gross%20Volunteering%20Image.user.js">Download</a>
 
-(Warning: John Legend's stats are the same as your Battledome pet and damage done to John Legend will still be done to your Battledome pet. Taking Battledome damage was not in John Legend's contract.)
+You hate that spit trail, don't you? Or maybe you didn't notice it until I pointed it out just now. Sorry. Well! Here's something to replace it.
 
-Removes your Battledome sprite and replaces it with John Legend. Or, if you're crafty, edit the script as indicated (it's easy!) to put your own image in there. Have Miku do your battles or whatever.
+Purely cosmetic, just edits the CSS to replace a single image.
 
-Again, this is **purely cosmetic**. You still have to like, pick your battledome weapons and do your fights as usual, sadly.
-
-Does not replace your pet's top left portrait or username - I tried, but I think it doesn't let me because those elements load in later, and I'm not smart enough to accommodate that. Maybe I'll update this in the future if someone tells me how, ha ha.
+**NERD STUFF:** You can also edit the script easily if there's a different image you prefer, it just needs to be 450x150 in dimensions.
