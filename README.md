@@ -22,7 +22,7 @@ Some shorter Battledome pets, e.g. babies or Jubjubs, may have trouble reaching 
 
 <img src="https://i.imgur.com/eaG4hLM.gif">
 
-<a href="https://github.com/prettypinkpansy/neopets-userscripts/blob/main/Neopets%20-%20John%20Legend%20Fights%20Your%20Battles.user.js">Download</a>
+<a href="https://github.com/prettypinkpansy/neopets-userscripts/raw/refs/heads/main/Neopets%20-%20John%20Legend%20Fights%20Your%20Battles.user.js">Download</a>
 
 Where's that man been? What's he doing for Neopets? Finally answer that question and have John Legend do your fights so your Battledome pet doesn't have to. (Warning: John Legend's stats are the same as your Battledome pet and damage done to John Legend will still be done to your Battledome pet. Taking Battledome damage was not in John Legend's contract.)
 
@@ -38,7 +38,7 @@ Does not replace your pet's top left portrait or username - I tried, but I think
 
 <img src="https://i.imgur.com/JrndplW.gif">
 
-<a href="https://github.com/prettypinkpansy/neopets-userscripts/blob/main/Neopets%20-%20Lore%20Accurate%20Maraquan%20Battledome.user.js">Download</a>
+<a href="https://github.com/prettypinkpansy/neopets-userscripts/raw/refs/heads/main/Neopets%20-%20Lore%20Accurate%20Maraquan%20Battledome.user.js">Download</a>
 
 Do you have a Maraquan pet? Tired of seeing them float in midair? Put that thing in a bowl of water where it belongs.
 
