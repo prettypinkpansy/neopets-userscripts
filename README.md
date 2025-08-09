@@ -57,3 +57,13 @@ You hate that spit trail, don't you? Or maybe you didn't notice it until I point
 Purely cosmetic, just edits the CSS to replace a single image.
 
 **NERD STUFF:** You can also edit the script easily if there's a different image you prefer, it just needs to be 450x150 in dimensions.
+
+# Alternate Battledome Defeat Text
+
+<img src="https://i.imgur.com/3KcyRLD.png" width="500px"> <img src="https://i.imgur.com/VYBulMK.png" width="500px">
+
+<a href="https://github.com/prettypinkpansy/neopets-userscripts/raw/refs/heads/main/Neopets%20-%20Alternate%20Battledome%20Defeat%20Text.user.js">Download</a>
+
+Another purely cosmetic script. By default will replace the "Defeat!" text in the Battledome with the Grand Theft Auto "wasted" text. Edit the script as directed in the code (very simple change) for Dark Souls "YOU DIED" instead.
+
+**NERD STUFF:** By default Neopets' victory/draw/defeat text is a single image, so if you want to try and use your own images for this one, you'll have to edit <a href="https://images.neopets.com/bd2/ui/headers/winner.png">this image</a> as-needed.
